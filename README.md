@@ -37,7 +37,7 @@
 ## Python Classes
 
  # 1) Class objects
- #2)  Class inheritance
+ # 2)  Class inheritance
 
 ## Python Itarators and Iterables
  # a) The use of iter() and next() methods
