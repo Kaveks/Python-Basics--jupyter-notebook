@@ -3,11 +3,11 @@
 
 ## Python Data types
 
-1 Strings
-2 Python numbers,integers,floats and complex numbers
-3 python bytes  
+# 1 Strings
+# 2 Python numbers,integers,floats and complex numbers
+# 3 python bytes  
 
-# # Python Data Structures
+## Python Data Structures
 
 # a Lists-sequence and queue
 # b Dictionaries
