@@ -1,11 +1,11 @@
-# # Python Fundamentals
+## Python Fundamentals
 # This is the list os items in the Repo as per order
 
-# # Python Data types
+## Python Data types
 
-# 1 Strings
-# 2 Python numbers,integers,floats and complex numbers
-# 3 python bytes  
+1 Strings
+2 Python numbers,integers,floats and complex numbers
+3 python bytes  
 
 # # Python Data Structures
 
