@@ -16,8 +16,8 @@
 
 ## if Statements
 
-  # if statement,nested if statement
-  #   if,elif and else
+  # a) if statement,nested if statement
+  # b)  if,elif and else
 
 ## Python Loops
 
@@ -26,22 +26,22 @@
 
 ## Python Functions basics
 
- #  Functions without arguments
- #  functions with arguments
+ #1)  Functions without arguments
+ #2)  functions with arguments
 
 ## Python Functions Basics
- #  return a function in a function
- #  lambda function
-  # list of functions
+ # 1) return a function in a function
+ # 2) lambda function
+ # 3) list of functions
  
 ## Python Classes
 
- #  Class objects
- #  Class inheritance
+ # 1) Class objects
+ #2)  Class inheritance
 
 ## Python Itarators and Iterables
- #  The use of iter() and next() methods
- #  create an iterator
+ # a) The use of iter() and next() methods
+ # b) create an iterator
 
 ## Python Scope
 
