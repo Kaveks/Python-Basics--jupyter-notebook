@@ -3,16 +3,16 @@
 
 ## Python Data types
 
-#  1 Strings
-#  2 Python numbers,integers,floats and complex 
-#  3 python bytes  
+#  1) Strings
+#  2) Python numbers,integers,floats and complex 
+#  3) python bytes  
 
 ## Python Data Structures
 
-#  a  Lists-sequence and queue
-#  b  Dictionaries
-#  c  Sets
-#  d  Tuples
+#  a)  Lists-sequence and queue
+#  b)  Dictionaries
+#  c)  Sets
+#  d)  Tuples
 
 ## if Statements
 
@@ -21,8 +21,8 @@
 
 ## Python Loops
 
- #  a  for loop
- #  b  while loop
+ #  a)  for loop
+ #  b)  while loop
 
 ## Python Functions basics
 
@@ -45,7 +45,7 @@
 
 ## Python Scope
 
- # a  local 
- # b  global
+ # a)  local 
+ # b)  global
 
 ## Python Dates
