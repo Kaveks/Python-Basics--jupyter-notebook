@@ -26,8 +26,8 @@
 
 ## Python Functions basics
 
- #1)  Functions without arguments
- #2)  functions with arguments
+ # 1)  Functions without arguments
+ # 2)  functions with arguments
 
 ## Python Functions Basics
  # 1) return a function in a function
